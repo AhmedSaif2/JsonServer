@@ -36,6 +36,11 @@
       "price": 679.99,
       "oldprice": 679.99,
       "lastupdated": "9/2015",
+      "overview":[
+        "Create their own Python Programs",
+        "Become an experienced Python Programmer",
+        "Parse the Web and Create their own Games"
+       ],
       "lectures": [
         {
           "id": "l7qq1oy2mkb7rw06dma",
@@ -362,6 +367,15 @@
       "price": 1599.99,
       "oldprice": 1599.99,
       "lastupdated": "9/2019",
+      "overview":[
+        "Have an intermediate skill level of Python programming.",
+        "Use the Jupyter Notebook Environment.",
+        "Use the numpy library to create and manipulate arrays.",
+        "Use the pandas module with Python to create and structure data.",
+        "Learn how to work with various data formats within python, including: JSON,HTML, and MS Excel Worksheets.",
+        "Create data visualizations using matplotlib and the seaborn modules with python.",
+        "Have a portfolio of various data analysis projects."
+       ],
       "lectures": [
         {
           "id": "l7ru9jsji2toej8xj0b",
