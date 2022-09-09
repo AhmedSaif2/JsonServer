@@ -36,11 +36,11 @@
       "price": 679.99,
       "oldprice": 679.99,
       "lastupdated": "9/2015",
-      "overview":[
+      "overview": [
         "Create their own Python Programs",
         "Become an experienced Python Programmer",
         "Parse the Web and Create their own Games"
-       ],
+      ],
       "lectures": [
         {
           "id": "l7qq1oy2mkb7rw06dma",
@@ -367,7 +367,7 @@
       "price": 1599.99,
       "oldprice": 1599.99,
       "lastupdated": "9/2019",
-      "overview":[
+      "overview": [
         "Have an intermediate skill level of Python programming.",
         "Use the Jupyter Notebook Environment.",
         "Use the numpy library to create and manipulate arrays.",
@@ -375,7 +375,7 @@
         "Learn how to work with various data formats within python, including: JSON,HTML, and MS Excel Worksheets.",
         "Create data visualizations using matplotlib and the seaborn modules with python.",
         "Have a portfolio of various data analysis projects."
-       ],
+      ],
       "lectures": [
         {
           "id": "l7ru9jsji2toej8xj0b",
@@ -632,6 +632,179 @@
       "hoursCount": "21",
       "articlesCount": "3",
       "downloadableResource": "4"
+    },
+    {
+      "id": "l7tzi9qtaqef0ng5gr",
+      "title": "Python for Beginners - Learn Programming from scratch",
+      "description": "Python For Beginners : This course is meant for absolute beginners in programming or in python.",
+      "link": "python-for-beginners-learn-programming-from-scratch",
+      "img": "https://img-c.udemycdn.com/course/240x135/405878_e5a0_3.jpg",
+      "instructors": [
+        {
+          "id": "l7tzi9qssilpqdhqj9",
+          "name": "Edwin Diaz",
+          "job": "Web Developer & Premium Instructor - 800,000 students",
+          "img": "https://img-c.udemycdn.com/user/200_H/6772884_fcfc_2.jpg",
+          "rating": 4.4,
+          "reviews": 123378,
+          "students": 829107,
+          "courses": 47,
+          "description": "Edwin Diaz is a software and web technologies engineer, a life coach trainer who is also a serial entrepreneur with multiple online businesses, ranging from online jewelry shops, affiliate websites, application development and consultations services, personal online schools, etc.\n\nWith over one million students, and clients growing by the thousands a day, Mr. Diaz lets the numbers speak for themselves.\n\nFounding multiple online companies have allowed Mr. Diaz to have the time to teach others. He currently teaches web technologies on different online platforms. He also teaches life coaching sessions to help others achieve a high level of success in many areas of life.\n\nFor Mr. Diaz, there is nothing more rewarding than helping others become successful.\n\nHis ability to transmit energy, enthusiasm, and complex knowledge allows him to do what he does best \"Teach\".\n\nTeaching is not just a job for Mr. Diaz but a way of life that continues to flourish every single day.\n\nApart from teaching he enjoys spending part of his time with his family.\n\nShow more"
+        },
+        {
+          "id": "l7tzi9qsi7nd2un9109",
+          "name": "Coding Faculty Solutions",
+          "job": "Coding Faculty",
+          "img": "https://img-c.udemycdn.com/user/200_H/34613172_6fb4.jpg",
+          "rating": 4.4,
+          "reviews": 115080,
+          "students": 737714,
+          "courses": 38,
+          "description": "Coding Faculty creates high quality technology training content. We aim to teach technology the right way but at the same time putting emphasis on each of our students. We are a growing team of professional trainers who love our work but overall helping our students reach their maximum potential in their career."
+        }
+      ],
+      "rating": 4.4,
+      "enrollments": 7665,
+      "totalreviews": 1901,
+      "price": 269.99,
+      "oldprice": 269.99,
+      "lastupdated": "5/2022",
+      "lectures": [
+        {
+          "id": "l7tzi9pm1s4rswm41kj",
+          "title": "Programming fundamentals",
+          "lessons": [
+            "Introduction",
+            "What is programming?",
+            "What is source code?",
+            "Compile VS Interpreted Languages",
+            "Strings and numbers",
+            "Variables",
+            "Lists, Arrays or Collections",
+            "Conditional Code - If statements",
+            "Loops",
+            "Functions"
+          ]
+        },
+        {
+          "id": "l7tzi9pnty31zo91vum",
+          "title": "Getting Started with Python",
+          "lessons": [
+            "intro to getting started",
+            "What is Python?",
+            "Installing Python",
+            "Running Python IDLE and online",
+            "Installing IDE"
+          ]
+        },
+        {
+          "id": "l7tzi9q6jn3cudn1if",
+          "title": "Python Basics",
+          "lessons": [
+            "Intro to python basics",
+            "Exercise files",
+            "Strings & print function",
+            "Numbers / Math",
+            "Variables",
+            "Lists",
+            "Tuples",
+            "Dictionaries"
+          ]
+        },
+        {
+          "id": "l7tzi9qbdz7olwishpo",
+          "title": "Conditional structures",
+          "lessons": [
+            "intro to conditional code",
+            "If Statements",
+            "While Loop",
+            "For loop",
+            "Break and Continue"
+          ]
+        },
+        {
+          "id": "l7tzi9qgerv150cgjrk",
+          "title": "Functions",
+          "lessons": [
+            "intro to functions",
+            "Custom Functions & arguments",
+            "Functions with arguments",
+            "Function variable scopes",
+            "Function return",
+            "Functions with flexible arguments",
+            "Unpacking",
+            "Modules",
+            "Built in functions"
+          ]
+        },
+        {
+          "id": "l7tzi9qm7hm5cq9gnjv",
+          "title": "Working with files",
+          "lessons": [
+            "Intro to working files",
+            "Opening / Creating files / Writing files",
+            "File reading",
+            "Renaming files",
+            "Deleting files"
+          ]
+        }
+      ],
+      "reviewers": [],
+      "requirements": ["NO programming knowledge required"],
+      "descriptions": [
+        "NEW PYTHON CODE ",
+        "This python for beginners course is geared to students who want to know how python works and also to those totally new to programming.",
+        "The python language has very simple syntax(way to write it) to learn and it is one of the most powerful languages to learn since it can used for a variety of things.",
+        "Here are some:",
+        "\n",
+        "Jobs in this field are really lucrative and knowing this language will give you an edge when finding a job and making a lot more money than other developers; python developers are not as many as in other languages since people think is hard. Python is super easy to learn but very powerful since it contains many possibilities.\n",
+        "Python is growing faster and faster everyday and it has surpassed many other languages over the years for a lot of reasons, which you will find out soon enough.",
+        "------------------------------------------------------------------------------",
+        "Why take this course?",
+        "This course starts with explaining what programming really is? Have you ever wondered how things actually work in a program?",
+        "1. Teaches the foundation of GENERAL programming",
+        "Every student should have some foundations on what programming really is before learning any language, why? Because once you understand the core components of programming it will be a lot easier to learn any language and create better programs.",
+        "2. New lectures added all the time",
+        "When you like what you do, it reflects. This is not a job for me, so I wake up wanting to code and help my students. Basically you pay once, get the course forever and get extra values added all the time, you have to love that :)",
+        "3. Fun place to be\n",
+        "I love making my lectures fun and engaging, so no boring lectures here!",
+        "4. The support you get in this course in unmatched",
+        "have you ever joined a class and received very little support or none at all? Well that is not going to happen in this class, because I love helping my students.",
+        "\n"
+      ],
+      "whoFor": [
+        "Student totally new to programming.",
+        "Student totally new to python"
+      ],
+      "reviews": [
+        {
+          "id": 1,
+          "name": "Bryan P.",
+          "rate": "2",
+          "content": "His voice in each video can either be audible or barely audible. If it was consistent then it would be fine, but I have to keep adjusting the volume."
+        },
+        {
+          "id": 2,
+          "name": "Redon D.",
+          "rate": "4",
+          "content": "I found the course to be amazing, the instructor was clear and easy to follow. The instructions were easily available and covered almost every thing I could have asked for. The Q&A section was helpful as well. One negative aspect was that it did not exhaust all the topic especially from the data visualization were matplotlib did not even have a section."
+        },
+        {
+          "id": 3,
+          "name": "Tanishq",
+          "rate": "5",
+          "content": "course is good but please update these course because many of the code which is being used has been updated and some of the code doesn't work because of updating please mention these kind of thing while purchase because if you provide a updated course with 500 i thing you sale will boost up may be you ca raise price around 1500 rs we can spend that much of money for knowledge."
+        },
+        {
+          "id": 4,
+          "name": "Jerell S.",
+          "rate": "5",
+          "content": "Instructor was very clear and knowledgeable. I was able to understand all the concepts and apply them. The course was a little outdated but I was still able to get almost everything to work."
+        }
+      ],
+      "hoursCount": "2.5",
+      "articlesCount": "1",
+      "downloadableResource": "1"
     }
   ]
 }
