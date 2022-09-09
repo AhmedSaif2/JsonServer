@@ -669,6 +669,10 @@
       "price": 269.99,
       "oldprice": 269.99,
       "lastupdated": "5/2022",
+      "overview": [
+        "To learn the python language",
+        "To learn the CORE skills to understand any programming language"
+      ],
       "lectures": [
         {
           "id": "l7tzi9pm1s4rswm41kj",
